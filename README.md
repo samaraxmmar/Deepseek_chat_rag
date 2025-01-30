@@ -1,6 +1,6 @@
 
 
-# DeepSeek Chat RAG
+<span style="font-size: 36px; color: blue;">DeepSeek</span> Chat RAG
 
 DeepSeek Chat RAG is a project that utilizes advanced retrieval-augmented generation (RAG) models to answer user queries based on documents. The system extracts and indexes content from various file formats (PDF, DOCX, CSV, etc.), storing the data in a Chroma database. It then uses this information to provide relevant answers to user queries using a conversational model.
 
