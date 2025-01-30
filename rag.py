@@ -1,13 +1,12 @@
 import os
 import json
 import logging
-from langchain_community.document_loaders import UnstructuredPDFLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
 from langchain.chains import RetrievalQA
-
+from langchain_community.document_loaders import UnstructuredPDFLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_huggingface import HuggingFaceEmbeddings
 from docx import Document  # Pour les fichiers DOCX
 import fitz  # PyMuPDF pour les PDFs
 import pandas as pd  # Pour les CSV
