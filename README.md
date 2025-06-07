@@ -1,7 +1,7 @@
 # DeepSeek RAG Chatbot 🤖
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923831-5843447c-1748-423c-9118-24989e226165.png" alt="DeepSeek RAG Chatbot Banner" width="700">
+  <img src="https://raw.githubusercontent.com/deepseek-ai/DeepSeek-V2/refs/heads/main/figures/logo.svg" alt="DeepSeek RAG Chatbot Banner" width="700">
 </p>
 
 <p align="center">
