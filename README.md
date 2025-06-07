@@ -34,7 +34,7 @@ Simply upload your documents, and the system will automatically process, index, 
 The application follows a sophisticated Retrieval-Augmented Generation (RAG) architecture to provide answers from your documents.
 
 <p align="center">
-  <img src="https://i.imgur.com/A8O1Z9B.png" alt="RAG Architecture Diagram" width="700">
+  <img src="[https://i.imgur.com/A8O1Z9B.png](https://www.google.com/imgres?q=RAG%20Architecture%20Diagram&imgurl=https%3A%2F%2Fwww.deepchecks.com%2Fwp-content%2Fuploads%2F2024%2F10%2Fimg-rag-architecture-model.jpg&imgrefurl=https%3A%2F%2Fwww.deepchecks.com%2Fglossary%2Frag-architecture%2F&docid=77NHblHjJBDcLM&tbnid=tAnnhoVChABTzM&vet=12ahUKEwjLnqut7N-NAxXW_rsIHUhsGNQQM3oECGYQAA..i&w=680&h=346&hcb=2&ved=2ahUKEwjLnqut7N-NAxXW_rsIHUhsGNQQM3oECGYQAA)" alt="RAG Architecture Diagram" width="700">
 </p>
 
 1.  **Document Loading**: You upload your documents (PDF, DOCX, etc.) through the Streamlit interface.
